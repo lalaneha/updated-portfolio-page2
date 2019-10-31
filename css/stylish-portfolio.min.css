@@ -19,7 +19,7 @@ body {
 
 .content-section {
     padding-top: 7.5rem;
-    padding-bottom: 7.5rem
+    padding-bottom: 7.5rem;
 }
 
 .content-section-heading h2 {
@@ -204,7 +204,7 @@ h6 {
 }
 
 .callout {
-    padding: 15rem 0;
+    padding: 8rem 0;
     background: linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/bg-callout.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -239,7 +239,8 @@ h6 {
 
 .portfolio-item .caption .caption-content {
     color: #fff;
-    margin: auto 2rem 2rem
+    margin: auto 2rem 2rem;
+    margin-top: 13rem;
 }
 
 .portfolio-item .caption .caption-content h2 {
@@ -290,7 +291,7 @@ h6 {
 }
 
 footer.footer {
-    padding-top: 5rem;
+    padding-top: 2rem;
     padding-bottom: 5rem;
 }
 
